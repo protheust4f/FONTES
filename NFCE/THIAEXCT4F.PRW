@@ -3,7 +3,7 @@
 /*/
 Programa:AEXCCFE.prw
 Funcao:AEXCCFE
-Autor:THIAGO
+Autor:EDU
 Data:26/07/2016
 Descricao: Limpar Dados para Recarga do XML
 /*/
